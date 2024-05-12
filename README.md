@@ -1,6 +1,6 @@
 # GSERM 2024 Deep Learning: Fundamentals and Applications 🏔️
 
-![Course Banner](banner.png)
+![Course Banner](banner.jpg)
 
 Grüezi! 🖐️ Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by **Prof. Dr. Damian Borth**. In this course, theoretical and practical hands-on coding lab sessions alternate to provide a better learning experience. 
 
