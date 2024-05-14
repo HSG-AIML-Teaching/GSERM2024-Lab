@@ -12,11 +12,10 @@ Viel Spass beim Programmieren! 🎉 (Happy Coding!)
 
 ## Course Logistics 🗓️
 
-- **Lectures:** Daily 09:15-12:30 CEST ⏰ , Zoom links are posted on Canvas.
-- **Labs:** Daily 13:30-15:15 CEST, Zoom links are posted on Canvas.
-- **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab.
-- **Office Hours:** Daily 16:00-17:00 CEST, please send us a corresponding invitation via mail.
-- **Announcements:** All course-related announcements and questions will happen on Canvas.
+- **Lectures:** Daily 09:15-12:30 CEST ⏰, at the SQUARE building, room Hilti 1, 11-1071 (1st floor).
+- **Labs 🧪:** Daily 13:30-15:15 CEST, at the SQUARE building, room Hilti 1, 11-1071 (1st floor).
+- **Office Hours:** Daily 16:00-17:00 CEST, please send us a corresponding invitation via mail 📬.
+- **Announcements:** All course-related announcements 🔔 and questions will happen on Canvas 🎨.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
