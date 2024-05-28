@@ -3,9 +3,11 @@
 ![Course Banner](banner.jpg)
 
 
-Grüezi! 🖐️ Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by [Prof. Dr. Damian Borth](https://gserm.org/instructors/damian-borth/). In this course, theoretical and practical hands-on coding lab sessions alternate to provide a better learning experience.
+Grüezi! 🖐️ 
 
-The guided coding labs will be taught by [Marco Schreyer](https://gserm.org/instructors/marco-schreyer/). The Python programming, Machine Learning, and Deep Learning lab materials are available and accessible through this GitHub repository.
+Welcome to our GSERM course **Deep Learning: Fundamentals and Applications**, taught by [Prof. Dr. Damian Borth](https://gserm.org/instructors/damian-borth/). In this course, theoretical and practical hands-on coding lab sessions alternate to provide a better learning experience. 📚💻
+
+The guided coding labs will be taught by [Marco Schreyer](https://gserm.org/instructors/marco-schreyer/). The Python programming, Machine Learning, and Deep Learning lab materials are available and accessible through this GitHub repository. 🐍🤖
 
 Please use a laptop computer (not a tablet) to participate fully in the lab courses.
 
